@@ -1,0 +1,44 @@
+cookie:
+  expiry_days: 7
+  key: documind_secret_key_change_this_to_anything
+  name: documind_auth_cookie
+credentials:
+  usernames:
+    chandana:
+      email: modalavalasachandana@gmail.com
+      first_name: chandana
+      last_name: Modalavalasa
+      logged_in: false
+      password: $2b$12$BUbN5qeqafc6/Z0IZEGJ7eu.Lz1mgWy3oVUZZ/qSqknhcGQIJnirS
+      password_hint: '890'
+      roles: null
+    demo:
+      email: demo@documind.ai
+      name: Demo User
+      password: $2b$12$8g4b0IUnoKILn40598bcqetF40T05wyeSiqIDyf.ISCSGicQFabl.
+    kavya:
+      email: kavya123@gmail.com
+      first_name: G S
+      last_name: Kavya
+      logged_in: false
+      password: $2b$12$ps5XX0yNeKTkQmzzrcZjAuTYM9IvNWDPRDOWZOCJ2OY7MAfEZiszi
+      password_hint: Kav
+      roles: null
+    rohit:
+      email: rohit@gmail.com
+      first_name: Rohit
+      last_name: Modalavalasa
+      logged_in: false
+      password: $2b$12$zIb/q3QB86aohhkG4Xi4iuAi8INcrQZF2lAv7MwHRtixJI2YFElb6
+      password_hint: '@1r'
+      roles: null
+    sandhya:
+      email: Sandhya@gmail.com
+      first_name: Sandhya
+      last_name: Modalavalasa
+      logged_in: false
+      password: $2b$12$7BMYvjV19nLxsg.WVzMCpuundrTZzhbll..RfTQUYyXSyAzI1Dywe
+      password_hint: '@1s'
+      roles: null
+preauthorized:
+  emails: []
