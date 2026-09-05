@@ -29,7 +29,7 @@ LLM
      ↓
 Answer + Source Citations
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python
 Generative AI
 Large Language Models (LLMs)
@@ -37,7 +37,7 @@ Retrieval-Augmented Generation (RAG)
 LangChain
 PDF Processing
 
-📂 Project Structure
+## 📂 Project Structure
 Documind/
 │
 ├── app.py
@@ -47,7 +47,7 @@ Documind/
 ├── chat_history.json
 └── README.md
 
-🚀 Getting Started
+## 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/chandanamodalavalasa/Documind.git
 cd Documind
@@ -59,11 +59,11 @@ Set up the required configuration according to the application's configuration f
 
 4. Run the application
 python app.py
-🎯 Problem Solved
+##🎯 Problem Solved
 
 Finding specific information inside long PDF documents can be time-consuming. DocuMind uses a retrieval-based AI approach to help users quickly find relevant information and interact with their documents through natural language.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Support for multiple document formats
 Improved retrieval and ranking
 Conversation memory improvements
