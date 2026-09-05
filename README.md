@@ -46,6 +46,7 @@ Documind/
 ├── requirements.txt
 ├── chat_history.json
 └── README.md
+
 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/chandanamodalavalasa/Documind.git
